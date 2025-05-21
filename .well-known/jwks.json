@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "singpass-key-1",
+      "use": "sig",
+      "alg": "RS256",
+      "e": "AQAB",
+      "n": "ul9ixeZvtN3znDd1VYQ9zs1CAsIATa-D4liX5c178LZ97fGBND91sVYAw-t6q0fJRg6q8ZVaVvWZsiyF7XY0krhwFAbQKz9NHxZMRiwB6qrjWSCuMWu98W3_w8spMuniOv_CAkyBt80xB7HHhLBLYy7SDOGhZZNY4amcxtTvRv7Eizt39m27Fwai3yPIjwcl5tvsE0FoiPWJ6C_7xICIvex-SM1ib7uyJec7i0IUIwNjV0q8R2IEzuGj0fI_yu9CjvK1kYR-UcApz5yuSDB8MXc2ovgmYphiHhuG-As8N9ng7ZPjKYw8tNWtB0Jon3yEO0q2zxvbUJrdTGmlrWEtFw"
+    }
+  ]
+}
