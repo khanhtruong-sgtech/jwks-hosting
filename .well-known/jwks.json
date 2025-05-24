@@ -1,13 +1,21 @@
 {
-    "keys": [
-        {
-            "kty": "EC",
-            "crv": "P-256",
-            "kid": "singpass-key-1",
-            "use": "sig",
-            "alg": "ES256",
-            "x": "b13ZjYo_x0kizVxv6eWdo9_Iiqs703jjpIfz3bSZmHI",
-            "y": "dDTJgbTVAdnLhdIVrZ3gHPgTXWAOkCIOPfkmx6C3Z9o"
-        }
-    ]
+  "keys": [
+    {
+      "kty": "EC",
+      "crv": "P-256",
+      "kid": "singpass-key-1",
+      "use": "sig",
+      "alg": "ES256",
+      "x": "ALveY4dMDPvAJ2Gte_a-8w3laEIcThWiKV9i4lz1SnUS",
+      "y": "ANHXRUMjKC_U1rfwVuOWCb_uF_IczuamPnYnGFANfYVn"
+    },
+    {
+      "kty": "RSA",
+      "kid": "singpass-key-1-enc",
+      "use": "enc",
+      "alg": "RSA-OAEP",
+      "n": "ALfDyPPgVAOYVNOqH-NqDm9zJ3LnI-82TY_e9TDOH2kuaotjhTuefvSfjuNv0CkdlT7BDPv9VkWHiDt18o_TbeDoIj1lhT8y7FR91ZsvYDFXP2mDKY7XrJMqvDtEknx2iiojQdeXGBP8FXnE6oPrO7Gl8NVJwPRcaIZH4KunseNITunx98HdVKAUHbWo_3fsmSwYRPJWgcxMyV3cpKUKH06rlsBCZoaaIDcXOGCHeAbEF9fbDwTkHNZSana9DNH7SpZf74z0Dq7L6TRFqMoF52bvcGtZap5gD9KrlhAOa_zF72q509iM76okB2XERbywbnl6TSzK39yNK09G-OHP3nU",
+      "e": "AQAB"
+    }
+  ]
 }
