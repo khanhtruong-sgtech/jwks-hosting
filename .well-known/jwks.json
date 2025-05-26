@@ -5,8 +5,8 @@
             "use": "sig",
             "crv": "P-256",
             "kid": "sig-2025-05-25",
-            "x": "uxkwTvq7i1UvbwPcNI8GtCfckaFYaQ8dN47r0vQ_TH4",
-            "y": "MM6kgArCw1dqi_IuCP_DzM9S2fQPGl5tA3oTIEqf8xI",
+            "x": "I4dyqpUTeqV8eQLAfBw6lLbiESr3SraYCWsbz1mjfdQ",
+            "y": "ywb2Zzaa49KiTgJ414UUj1dANYRvi63utUc-FQXY8q8",
             "alg": "ES256"
         },
         {
@@ -14,8 +14,8 @@
             "use": "enc",
             "crv": "P-256",
             "kid": "enc-2025-05-25",
-            "x": "9gr4MwLQmnSyvVBvcd18SP2YD_oFUhDOgwd4nr8HPuM",
-            "y": "gMsDGstNCi_yY3yrFiBeisCEDRid5bMTiZWqdv7Xc68",
+            "x": "pzEyn-Ig5O4K5yLJ3ooPuKFh5RJOunDkPUPsxVGTI6Y",
+            "y": "DfN7w6zeH_62PbcKfLS-iPPTN76MTtfuaHL7zkW4r3M",
             "alg": "ECDH-ES+A128KW"
         }
     ]
